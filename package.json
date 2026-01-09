@@ -10,7 +10,7 @@
     "expo": "^37.0.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-native": "^0.62.2",
+    "react-native": "^0.82.1",
     "react-scripts": "3.4.1",
     "styled": "^1.0.0",
     "styled-components": "^5.1.0"
